@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix منصة نون التعليمية التفاعلية - Noon EdTech Platform",
+  "description": "منصة تعليمية تفاعلية متكاملة باللغة العربية والإنجليزية، تدعم الطلاب والمعلمين ومديري النظام مع ألعاب تعليمية واختبارات وشارات ومسار تعلّم متقدم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
